@@ -1,0 +1,21 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+html,
+body {
+  background-color: #3b3d44;
+}
+
+#bot-points {
+  color: white;
+  min-height: 18px;
+}
+
+#bot-evaluated {
+  color: rgb(158, 158, 158);
+  margin-top: 4px;
+  margin-bottom: 12px;
+  min-height: 18px;
+}
